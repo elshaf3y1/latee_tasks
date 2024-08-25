@@ -1,0 +1,18 @@
+[0.685s] Invoking command in '/home/vboxuser/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/vboxuser/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.940s] running develop
+[1.103s] running egg_info
+[1.104s] writing my_robot_controller.egg-info/PKG-INFO
+[1.105s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[1.105s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[1.105s] writing requirements to my_robot_controller.egg-info/requires.txt
+[1.105s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[1.108s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.108s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[1.110s] running build_ext
+[1.110s] Creating /home/vboxuser/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[1.112s] Installing draw_circle script to /home/vboxuser/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.112s] Installing test_node script to /home/vboxuser/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.112s] 
+[1.112s] Installed /home/vboxuser/ros2_ws/build/my_robot_controller
+[1.112s] running symlink_data
+[1.137s] Invoked command in '/home/vboxuser/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/vboxuser/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_robot_controller/build --no-deps symlink_data
