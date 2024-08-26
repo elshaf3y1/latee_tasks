@@ -1,3 +1,5 @@
+## TInkercad project
+https://www.tinkercad.com/things/d7WsrwiaoUb-amazing-snicket?sharecode=5WvnIlt_1Yyb9NaMB6QhYHPkiFJMBRlj8HrCIipF9ns
 # Slave Code
 The slave code is quite simple all its function is to get sensor reading from temeperature sensor and light sensor using analogRead function and then divide the reading by 4 to scale the data down from 1023 for peak value to 255 to be able to be sent as a byte then it sends the readings to the master when the data is requested according to a flag that is toggled after every data transmission and thsi flag's role is to select which sensor reading will be transmiited and this makes a different sensor to send it data each time.
 # Master Code
